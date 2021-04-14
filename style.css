@@ -1,0 +1,10 @@
+.flex-container {
+  background-color: rosybrown;
+  display: flex;
+}
+.flex-container > div {
+  background-color: slateblue;
+  height: 400px;
+  width: 50px;
+  margin: 130px;
+}
